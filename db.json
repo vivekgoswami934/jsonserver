@@ -1,36 +1,41 @@
 {
-    "users": [
-        {
-            "id":1,
-            "title":"hello",
-            "isCompleted":false
-        }, {
-            "id":2,
-            "title":"hello2",
-            "isCompleted":false
-        }
-    ],
-    "accounts": [
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
-            },
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
-            }
-    ],
-    "transactions": [
-
-    ],
-    "payees":[  
-        
-    ],
-    "data":[
-        
-    ]
-    
-
+  "users": [
+    {
+      "id": 1,
+      "title": "hello",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "title": "hello2",
+      "isCompleted": false
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "name": "xyz",
+      "roll": 909
+    },
+    {
+      "id": 1,
+      "name": "xyz",
+      "roll": 909
+    }
+  ],
+  "transactions": [],
+  "payees": [],
+  "data": [],
+  "books": [
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    }
+  ]
 }
