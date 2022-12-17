@@ -60,5 +60,32 @@
       "cost": 400,
       "borrowed": true
     }
+  ],
+  "todosreduxcrud": [
+    {
+      "title": "LEARN DSA",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "learn Redux",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Vivek",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "chhavi",
+      "status": false,
+      "id": 8
+    }
   ]
 }
