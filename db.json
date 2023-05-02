@@ -802,6 +802,40 @@
       "productId": 25,
       "quantity": 2
     }
+  ],
+  "booksjsonserver": [
+    {
+      "name": "Full Stack Developement",
+      "author": "Masai",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPQQL2RxlJlPLeIMtK80ttEj8YNhwohIYqM6NlKS6PUtyASHzc-f_e2tPs6t5cfjxJ3U&usqp=CAU",
+      "chapter": 12,
+      "quantity": 4,
+      "id": 1
+    },
+    {
+      "name": "Backend Developement",
+      "author": "Author - 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPQQL2RxlJlPLeIMtK80ttEj8YNhwohIYqM6NlKS6PUtyASHzc-f_e2tPs6t5cfjxJ3U&usqp=CAU",
+      "chapter": 10,
+      "quantity": 3,
+      "id": 2
+    },
+    {
+      "name": "Front End Developement",
+      "author": "Author - 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPQQL2RxlJlPLeIMtK80ttEj8YNhwohIYqM6NlKS6PUtyASHzc-f_e2tPs6t5cfjxJ3U&usqp=CAU",
+      "chapter": 5,
+      "quantity": 0,
+      "id": 3
+    },
+    {
+      "name": "Core Java",
+      "author": "Masai",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPQQL2RxlJlPLeIMtK80ttEj8YNhwohIYqM6NlKS6PUtyASHzc-f_e2tPs6t5cfjxJ3U&usqp=CAU",
+      "chapter": 10,
+      "quantity": 2,
+      "id": 4
+    }
   ]
   }
 
