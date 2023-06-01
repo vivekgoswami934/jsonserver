@@ -881,6 +881,23 @@
       "quantity": 2,
       "id": 4
     }
+  ],
+  "subject" : [
+    {
+     "SUBJECT NAME"	 : "English",
+     "SUBJECT CODE" :  "ME101",
+     	"TEACHER ASSIGNED" : "Rahul Rajeevan"
+    },
+    {
+     "SUBJECT NAME"	 : "Math",
+     "SUBJECT CODE" :  "M101",
+     	"TEACHER ASSIGNED" : "Manoj Attri"
+    },
+    {
+     "SUBJECT NAME"	 : "English",
+     "SUBJECT CODE" :  "ME101",
+     	"TEACHER ASSIGNED" : "Sanjay Sir"
+    },
   ]
   }
 
